@@ -2,27 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffa8631a-f5f4-4346-89b6-eb1866905124" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_1.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_2.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_3/Assignment3_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_3/Assignment3_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_3/Assignment3_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_3/Assignment3_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_3/Assignment3_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_3/MarvellousNum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_4/Assignment4_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_4/Assignment4_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_4/Assignment4_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_4/Assignment4_3SimpleFunction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_4/Assignment4_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_4/Assignment4_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_4/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/MultDecorator" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment_5/Assignment5_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment_5/Assignment5_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment_5/Assignment5_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment_5/Assignment5_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment_5/Assignment5_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment_5/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment_2/Assignment2_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment_2/Assignment2_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_4/Assignment4_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment_4/Assignment4_5.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,16 +31,16 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Assignment_4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Assignment_5" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sbamhande\PycharmProjects\pythonPrograms\Assignment_5" />
       <recent name="C:\Users\sbamhande\PycharmProjects\pythonPrograms\Assignment_4" />
       <recent name="C:\Users\sbamhande\PycharmProjects\pythonPrograms\Assignment_3" />
       <recent name="C:\Users\sbamhande\PycharmProjects\pythonPrograms\Assignment_2" />
       <recent name="C:\Users\sbamhande\PycharmProjects\pythonPrograms\Assignment_1" />
-      <recent name="C:\Users\sbamhande\PycharmProjects\pythonPrograms" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -68,70 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Assignment4_5">
-    <configuration name="Assignment4_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pythonPrograms" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignment_4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment_4/Assignment4_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Assignment4_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pythonPrograms" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignment_4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\sbamhande\PycharmProjects\pythonPrograms\Assignment_4\Assignment4_3SimpleFunction.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Assignment4_3_Lamda" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pythonPrograms" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignment_4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\sbamhande\PycharmProjects\pythonPrograms\Assignment_4\Assignment4_3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Assignment5_5">
     <configuration name="Assignment4_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonPrograms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,7 +77,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MultDecorator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Assignment5_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonPrograms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -161,11 +85,74 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignment_5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/MultDecorator" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment_5/Assignment5_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Assignment5_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonPrograms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignment_5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment_5/Assignment5_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Assignment5_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonPrograms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignment_5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment_5/Assignment5_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Assignment5_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonPrograms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignment_5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment_5/Assignment5_5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Assignment5_5" />
+        <item itemvalue="Python.Assignment5_4" />
+        <item itemvalue="Python.Assignment5_2" />
+        <item itemvalue="Python.Assignment5_1" />
         <item itemvalue="Python.Assignment4_5" />
-        <item itemvalue="Python.MultDecorator" />
-        <item itemvalue="Python.Assignment4_3_Lamda" />
-        <item itemvalue="Python.Assignment4_3" />
-        <item itemvalue="Python.Assignment4_2" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +189,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -258,13 +247,28 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Assignment_4/Assignment4_5.py</url>
-          <line>34</line>
+          <line>35</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Assignment_4/Assignment4_5.py</url>
-          <line>35</line>
+          <line>36</line>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Assignment_5/Assignment5_5.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Assignment_5/Assignment5_5.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Assignment_5/Assignment5_5.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -16,7 +16,7 @@ def multiply(n):
 
 def findMaxNum(n1, n2):
     max = n1
-    if(n2 >= n1):
+    if n2 >= n1:
         max = n2
     return max
 
