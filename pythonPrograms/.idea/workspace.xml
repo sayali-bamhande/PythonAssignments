@@ -2,20 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffa8631a-f5f4-4346-89b6-eb1866905124" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assignment_10/Assignment10_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_10/Assignment10_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_10/Assignment10_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_10/Assignment10_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_10/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_11/Assignment11_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_11/Assignment11_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_11/Assignment11_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_9/Assignment9_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_9/Assignment9_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_9/Assignment9_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_9/Assignment9_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_9/Assignment9_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_9/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment_12/Assignment11_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment_12/Assignment12_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment_12/Assignment12_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment_12/Assignment12_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment_12/Assignment12_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment_12/emailWithAttachment.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,19 +31,20 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Assignment_10/Assignment10_2.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Assignment_13" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\sbamhande\PycharmProjects\pythonPrograms\Assignment_11" />
-      <recent name="C:\Users\sbamhande\PycharmProjects\pythonPrograms\Assignment_11\abc" />
-      <recent name="C:\Users\sbamhande\PycharmProjects\pythonPrograms" />
-      <recent name="C:\Users\sbamhande\PycharmProjects\pythonPrograms\Assignment_10\demo3" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sbamhande\PycharmProjects\pythonPrograms\Practice" />
       <recent name="C:\Users\sbamhande\PycharmProjects\pythonPrograms\Assignment_10" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\sbamhande\PycharmProjects\pythonPrograms\Assignment_10" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sbamhande\PycharmProjects\pythonPrograms\Assignment_13" />
+      <recent name="C:\Users\sbamhande\PycharmProjects\pythonPrograms\Assignment_13\abc" />
+      <recent name="C:\Users\sbamhande\PycharmProjects\pythonPrograms" />
+      <recent name="C:\Users\sbamhande\PycharmProjects\pythonPrograms\Assignment_12" />
+      <recent name="C:\Users\sbamhande\PycharmProjects\pythonPrograms\Practice" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -66,8 +59,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Assignment10_2">
-    <configuration name="Assignment10_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Assignment13_1">
+    <configuration name="Assignment12_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonPrograms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,12 +68,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignment_10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignment_12" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment_10/Assignment10_1.py" />
-      <option name="PARAMETERS" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment_12/Assignment12_2.py" />
+      <option name="PARAMETERS" value="notepad" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -88,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Assignment10_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Assignment13_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonPrograms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,75 +89,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignment_10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignment_13" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment_10/Assignment10_2.py" />
-      <option name="PARAMETERS" value="abc abc.txt ab.txt" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Assignment9_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pythonPrograms" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignment_9" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment_9/Assignment9_1.py" />
-      <option name="PARAMETERS" value="test.txt" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Assignment9_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pythonPrograms" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignment_9" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment_9/Assignment9_3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Assignment9_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pythonPrograms" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignment_9" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment_9/Assignment9_5.py" />
-      <option name="PARAMETERS" value="test.txt Sayali" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment_13/Assignment13_1.py" />
+      <option name="PARAMETERS" value="abc 1 patilmeet007@gmail.com" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -193,21 +123,84 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="email" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonPrograms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\sbamhande\PycharmProjects\pythonPrograms\Practice\emailSend.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="emailSend" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonPrograms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/emailSend.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="emailWithAttachment" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonPrograms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/emailWithAttachment.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.Assignment9_1" />
-      <item itemvalue="Python.Assignment9_3" />
-      <item itemvalue="Python.Assignment9_5" />
-      <item itemvalue="Python.Assignment10_1" />
-      <item itemvalue="Python.Assignment10_2" />
+      <item itemvalue="Python.Assignment12_2" />
+      <item itemvalue="Python.Assignment13_1" />
+      <item itemvalue="Python.email" />
+      <item itemvalue="Python.emailSend" />
+      <item itemvalue="Python.emailWithAttachment" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Assignment10_2" />
-        <item itemvalue="Python.Assignment10_1" />
-        <item itemvalue="Python.Assignment9_5" />
-        <item itemvalue="Python.Assignment9_3" />
-        <item itemvalue="Python.Assignment9_1" />
+        <item itemvalue="Python.Assignment13_1" />
+        <item itemvalue="Python.emailWithAttachment" />
+        <item itemvalue="Python.emailSend" />
+        <item itemvalue="Python.email" />
+        <item itemvalue="Python.Assignment12_2" />
       </list>
     </recent_temporary>
   </component>
